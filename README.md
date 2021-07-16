@@ -8,11 +8,13 @@ I use Arch btw...
 
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ClaraCF&theme=midnight-purple&show_icons=1&hide_border=1" 
-     alt="ClaraCF's GitHub Stats"
-     width="450"
-     height="-1" /> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaraCF&theme=midnight-purple&show_icons=1&hide_border=1" 
+       alt="ClaraCF's GitHub Stats"
+       height="160"
+  /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCF&theme=midnight-purple&show_icons=1&hide_border=1&layout=compact"
-     alt="ClaraCF's Top Languages"
-     width="443"
-     height="-1" />
+       alt="ClaraCF's Top Languages"
+       height="160"
+  />
+</div>
