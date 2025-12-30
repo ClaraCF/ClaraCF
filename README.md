@@ -3,7 +3,9 @@
 
 I am a cybersecurity enthusiast who just codes for fun and learning's sake.  
 I absolutely love learning new tech-related things and understanding the things surrounding them.  
-  
+
+I'm a volunteer paramedic and certified BLS and ACLS provider. (:  
+
 I use Arch btw...  
 
 ### GitHub Stats
