@@ -8,13 +8,16 @@ I use Arch btw...
 <br>
 
 ### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaraCF&theme=midnight-purple&show_icons=1&hide_border=1" 
+<img src="https://littel-idiaot.alwaysdata.net/api?username=ClaraCF&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true" 
        alt="ClaraCF's GitHub Stats"
-       height="160"
-  /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraCF&theme=midnight-purple&show_icons=1&hide_border=1&layout=compact"
+       height="250"
+       align="center"
+/> 
+<img src="http://littel-idiaot.alwaysdata.net/api/top-langs?username=ClaraCF&theme=catppuccin_mocha&hide_border=true&layout=donut"
        alt="ClaraCF's Top Languages"
-       height="160"
-  />
-</div>
+       height="195"
+       align="center"
+/>
+
+> [!NOTE]
+> Top Languages do not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
