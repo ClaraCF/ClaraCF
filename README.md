@@ -5,7 +5,6 @@ I am a cybersecurity enthusiast who just codes for fun and learning's sake.
 I absolutely love learning new tech-related things and understanding the things surrounding them.  
   
 I use Arch btw...  
-<br>
 
 ### GitHub Stats
 <img src="https://littel-idiaot.alwaysdata.net/api?username=ClaraCF&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true" 
