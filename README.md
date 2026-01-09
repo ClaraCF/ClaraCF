@@ -1,4 +1,4 @@
-### Hi there, I'm Clara 👋
+# Hi there, I'm Clara 👋
 <!-- <a href='https://ko-fi.com/claracf' target='_blank'><img height='34' style='border:0px;height:34px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
 
 I am a cybersecurity enthusiast who just codes for fun and learning's sake.  
@@ -8,7 +8,7 @@ I'm a volunteer paramedic and certified BLS and ACLS provider. (:
 
 I use Arch btw...  
 
-### GitHub Stats
+## GitHub Stats
 <img src="https://littel-idiaot.alwaysdata.net/api?username=ClaraCF&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_all_commits=true" 
        alt="ClaraCF's GitHub Stats"
        height="250"
@@ -22,3 +22,8 @@ I use Arch btw...
 
 > [!NOTE]
 > Top Languages do not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
+
+<br>
+
+## Now Playing :p
+[![My Last.fm](https://lastfm.dedomil.workers.dev/Clarilurilu?dark&color=cba6f7)](https://www.last.fm/user/Clarilurilu)
